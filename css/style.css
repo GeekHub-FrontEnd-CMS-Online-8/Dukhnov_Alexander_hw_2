@@ -1,11 +1,11 @@
-
-
 .content {
 	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: 'Times New Roman', sans-serif;
 }
+
+p, ul, ol {font-size: 20px;}
 
 .textcenter {text-align: center;}
 
@@ -15,9 +15,28 @@ p.textcenter {font-style: italic;
 
 .bold {font-weight: bolder;}
 
-.textindent {text-indent: 5px;
-              font-style: italic;
-			  text-align: right;
+.textindent {
+             font-style: italic;
+			 text-align: right;
 }
 
 .underline {text-decoration: underline;}
+
+
+.leftimg {float: left;
+          margin: 7px 7px 7px 0;
+		  
+}
+
+.centerimg{
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+        }     
+		
+.bii {
+	font-style: italic;
+	font-weight: bolder;
+}
+
+.italicright {text-align: right;}		
