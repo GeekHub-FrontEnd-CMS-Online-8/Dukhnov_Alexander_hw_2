@@ -1,6 +1,23 @@
 
+
+.content {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Times New Roman', sans-serif;
+}
+
+.textcenter {text-align: center;}
+
+p.textcenter {font-style: italic;
+              font-size: 20px;
+}
+
+.bold {font-weight: bolder;}
+
+.textindent {text-indent: 5px;
+              font-style: italic;
+			  text-align: right;
+}
+
 .underline {text-decoration: underline;}
-
-.bold {font-weight: 600;}
-
-
